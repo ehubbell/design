@@ -1,0 +1,141 @@
+{
+  "brand": "Eric Hubbell",
+  "source": "Website snapshot, 2026-11-10; see kit source notes.",
+  "files": [
+    {
+      "path": "brand/brand-kit/assets/apple-touch-icon.png",
+      "bytes": 4296,
+      "sha256": "acfd398cbbd77e405efc3d825509fb84b24d31809a1087430070a55c270f26fc"
+    },
+    {
+      "path": "brand/brand-kit/assets/eh-full-bleed-light.svg",
+      "bytes": 1592,
+      "sha256": "9af9dfd6a28225b2f1679d9146198f0030615f3bc27cf8a5e632148f0817299f"
+    },
+    {
+      "path": "brand/brand-kit/assets/eh-full-bleed.svg",
+      "bytes": 1592,
+      "sha256": "58a173bb4f69eeca2ba48a429893f768f687fb4bca2468d99353aefa44d1ded4"
+    },
+    {
+      "path": "brand/brand-kit/assets/eh-rounded-light.svg",
+      "bytes": 1600,
+      "sha256": "c54591983178e6cc5936394940402d183826975ec5fd48ce439f98800140fd5b"
+    },
+    {
+      "path": "brand/brand-kit/assets/fonts/DM-SANS-LICENSE.txt",
+      "bytes": 4502,
+      "sha256": "6fbd040a29c2037a765dfb9f2561e9965b5c95c6dcb5dce516089d63d5f17af7"
+    },
+    {
+      "path": "brand/brand-kit/assets/fonts/INSTRUMENT-SERIF-LICENSE.txt",
+      "bytes": 4532,
+      "sha256": "b6106a757902d2d412e09d94dc4a226fe3da80485208a98003969f1b8b6b1d74"
+    },
+    {
+      "path": "brand/brand-kit/assets/fonts/dm-sans-latin-wght-normal.woff2",
+      "bytes": 36932,
+      "sha256": "9fea608a947e67020c33cad9a6fe3d60c54119dfb8cff87768a8117a15ed7543"
+    },
+    {
+      "path": "brand/brand-kit/assets/fonts/instrument-serif-latin-400-italic.woff2",
+      "bytes": 22128,
+      "sha256": "5a51946dfffa82972bc98745359c46761515641fda557c25116459a9f83da4a7"
+    },
+    {
+      "path": "brand/brand-kit/assets/fonts/instrument-serif-latin-400-normal.woff2",
+      "bytes": 21032,
+      "sha256": "5eb09b5ac0e28b67c2f041c8ba6d244604ca0c0980d65912ab2d47fed84ddc31"
+    },
+    {
+      "path": "brand/brand-kit/assets/icon.svg",
+      "bytes": 1600,
+      "sha256": "f1b4c56bab3ad42066d0b2d1d238e83fabdff5be921c8bb3131a0a16e4b1911f"
+    },
+    {
+      "path": "brand/brand-kit/assets/portrait.webp",
+      "bytes": 25402,
+      "sha256": "e60bcd538e5face4cd72a4bf2e4d66d08732412a5c8265ef6e06820e578049b2"
+    },
+    {
+      "path": "brand/brand-kit/assets/social-preview.jpg",
+      "bytes": 47148,
+      "sha256": "8e87ba0838cd1b350c273a37e7ff90fc38ff745a2c530985119db61016f3a19d"
+    },
+    {
+      "path": "brand/brand-kit/brand-preview.js",
+      "bytes": 2964,
+      "sha256": "f66cc1cf2ece849b267023230367240b6942a8a02a41a37ce0279f5014c5734e"
+    },
+    {
+      "path": "brand/brand-kit/index.html",
+      "bytes": 12443,
+      "sha256": "f73b660cb7c5502bbedc8322bccc98e125de0f22a93906801e6c8789b3a40922"
+    },
+    {
+      "path": "brand/brand-kit/styles/brand-kit.css",
+      "bytes": 7324,
+      "sha256": "eaaf04d6796845444b165a4d31d3c7384d943ab14d7cb5eb45a407af1510ea5d"
+    },
+    {
+      "path": "brand/brand-kit/styles/tokens.css",
+      "bytes": 1262,
+      "sha256": "ce2c82980a3139f19d6462c6c50e270c8acade391a06712b9e8d98f58797c17f"
+    },
+    {
+      "path": "diagrams/project-overview/index.html",
+      "bytes": 2790,
+      "sha256": "010f6777db8b536e2011bcca3ef7df76f4e295bfab8ab432b3d1a097ebb53bdd"
+    },
+    {
+      "path": "diagrams/project-overview/overview-diagram.css",
+      "bytes": 790,
+      "sha256": "91e9cb59e05a00c168f79745d387b57a1d9c06c36d0fb145c73ec8f11a4dd469"
+    },
+    {
+      "path": "diagrams/project-overview/overview-diagram.js",
+      "bytes": 4204,
+      "sha256": "9d534c5d95b923949a5b876b0615701d17bba51287af300ad771a17f5d1dc156"
+    },
+    {
+      "path": "brand/brand-kit/exports/images/eh-full-bleed-light.jpg",
+      "bytes": 35338,
+      "sha256": "96a648ed889d320741333e9e93b3b0141131ae91a647da9772a9e2816fc64b8d"
+    },
+    {
+      "path": "brand/brand-kit/exports/images/eh-full-bleed-light.png",
+      "bytes": 40981,
+      "sha256": "c890e30c656619285de8524d96d79487241f0ecd6ad12fb5f2ea7c23523aa786"
+    },
+    {
+      "path": "brand/brand-kit/exports/images/eh-full-bleed.jpg",
+      "bytes": 35312,
+      "sha256": "4517e0492af79fdd2cb9bea7da25c61a2079abec4d9a7c3b34908a18e49d6442"
+    },
+    {
+      "path": "brand/brand-kit/exports/images/eh-full-bleed.png",
+      "bytes": 41051,
+      "sha256": "367a16a022b0f989e933c9090c4e4a6922e75b07e390bf72dd2d69bb40e62a8c"
+    },
+    {
+      "path": "brand/brand-kit/exports/images/eh-rounded-light.jpg",
+      "bytes": 35651,
+      "sha256": "224a5e84d768b2606abd147238dd59e5140c3e2c614637e556cf3dd7e101c32c"
+    },
+    {
+      "path": "brand/brand-kit/exports/images/eh-rounded-light.png",
+      "bytes": 48265,
+      "sha256": "c33a0371e6eaedac2491c7c5b528ede0f4622fea3d798aab08fcbd80bc3372ae"
+    },
+    {
+      "path": "brand/brand-kit/exports/images/icon.jpg",
+      "bytes": 35704,
+      "sha256": "f2594a5967f06a3974c5371174023a294f2c4f30a5872915e57379cd09d43452"
+    },
+    {
+      "path": "brand/brand-kit/exports/images/icon.png",
+      "bytes": 48893,
+      "sha256": "4bca7b2bb3c8f8370c0cc418fe3dc7a66492aa70b7a4acd1b7230d12afdb4b38"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+/* Portable snapshot of web/src/app/globals.css, 2026-11-10. Web owns implemented UI. */
+@font-face {
+	font-family: 'Instrument Serif';
+	src: url('../assets/fonts/instrument-serif-latin-400-normal.woff2') format('woff2');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Instrument Serif';
+	src: url('../assets/fonts/instrument-serif-latin-400-italic.woff2') format('woff2');
+	font-weight: 400;
+	font-style: italic;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'DM Sans';
+	src: url('../assets/fonts/dm-sans-latin-wght-normal.woff2') format('woff2');
+	font-weight: 100 1000;
+	font-style: normal;
+	font-display: swap;
+}
+
+:root {
+	--background: #fafafa;
+	--foreground: #202122;
+	--secondary: #64676a;
+	--tertiary: #6c7073;
+	--border: #dedfe0;
+	--surface: #f1f2f2;
+	--button: #242526;
+	--button-text: #fafafa;
+	--accent: #697962;
+	--accent-light: #dce7d6;
+	--intro-duration: 6s;
+	--ease: cubic-bezier(0.22, 1, 0.36, 1);
+	color-scheme: light;
+}
+:root[data-theme='dark'] {
+	--background: #141516;
+	--foreground: #efefed;
+	--secondary: #aaadaf;
+	--tertiary: #94999c;
+	--border: #333638;
+	--surface: #202224;
+	--button: #eeefed;
+	--button-text: #202122;
+	--accent: #b1c0a4;
+	--accent-light: #303e31;
+	color-scheme: dark;
+}

@@ -1,0 +1,24 @@
+{
+  "autorun": false,
+  "terminals": [
+    {
+      "name": "design",
+      "focus": true,
+      "execute": false,
+      "command": "",
+      "recycle": true
+    },
+    {
+      "name": "design-alt",
+      "execute": false,
+      "command": "",
+      "recycle": true
+    },
+    {
+      "name": "zsh",
+      "execute": false,
+      "command": "",
+      "recycle": true
+    }
+  ]
+}

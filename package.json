@@ -1,0 +1,16 @@
+{
+  "name": "eric-hubbell-design",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Eric Hubbell brand assets, visual foundations, and design diagrams.",
+  "scripts": {
+    "commit": "bash scripts/commit.sh",
+    "deploy": "bash scripts/deploy.sh",
+    "start": "python3 -m http.server 8765 --bind 127.0.0.1 --directory src",
+    "check": "node --check scripts/export-images.mjs && node --check src/brand/brand-kit/brand-preview.js && node --check src/diagrams/project-overview/overview-diagram.js && bash -n scripts/common.sh scripts/commit.sh scripts/deploy.sh",
+    "export:brand": "node scripts/export-images.mjs && python3 scripts/export-brand.py"
+  },
+  "devDependencies": {
+    "sharp": "0.35.5"
+  }
+}
