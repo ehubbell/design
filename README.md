@@ -34,3 +34,7 @@ The repository starts on `dev`. No commit, remote, or publication is created by 
 
 - `npm run commit -- "Message"`: stages all project changes, commits on `dev`, and pushes it.
 - `npm run deploy`: with a clean tree, merges `dev` into `main`, pushes `main`, and returns to `dev`. This publishes Git changes, not a hosted site.
+
+The shared local HTTPS edge in `../artifacts/homes` exposes this preview at
+https://design.erichubbell.dev:8443/ while `npm start` runs on port 8765. See the
+Homes README for certificates and the one-time local hostname setup.
